@@ -24,6 +24,8 @@ const config = {
       colors: {
         primary: "#332F46",
         secondary: "#FFA940",
+        arb: "#FFF5E6",
+        support: "#888888",
       },
       keyframes: {
         "accordion-down": {
